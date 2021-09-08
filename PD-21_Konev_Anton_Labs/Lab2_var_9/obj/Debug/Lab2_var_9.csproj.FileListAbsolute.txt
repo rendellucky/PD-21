@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\bin\Debug\Lab2_var_9.exe.config
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\bin\Debug\Lab2_var_9.exe
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\bin\Debug\Lab2_var_9.pdb
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\obj\Debug\Lab2_var_9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\obj\Debug\Lab2_var_9.exe
+C:\Users\User\source\repos\PD-21_Konev_Anton_Labs\Lab2_var_9\obj\Debug\Lab2_var_9.pdb
