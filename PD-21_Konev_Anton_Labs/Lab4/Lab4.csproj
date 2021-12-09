@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Phones\Buttonphone.cs" />
+    <Compile Include="Phones\Colorphone.cs" />
+    <Compile Include="Phones\Discphone.cs" />
+    <Compile Include="Phones\Smartphone.cs" />
+    <Compile Include="Phones\WBphone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,2 @@
+C:\Users\Антон\source\repos\PD-21_Konev_Anton_Labs\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\PD-21_Konev_Anton_Labs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
