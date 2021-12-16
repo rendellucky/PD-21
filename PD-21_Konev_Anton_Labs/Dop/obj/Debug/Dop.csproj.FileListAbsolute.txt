@@ -1,0 +1,7 @@
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\bin\Debug\Dop.exe.config
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\bin\Debug\Dop.exe
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\bin\Debug\Dop.pdb
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\obj\Debug\Dop.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\obj\Debug\Dop.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\obj\Debug\Dop.exe
+C:\Users\Антон\Desktop\c#\PD-21_Konev_Anton_Labs\Dop\obj\Debug\Dop.pdb

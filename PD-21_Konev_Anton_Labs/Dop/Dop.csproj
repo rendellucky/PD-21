@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2268733E-D933-4844-8730-3EDE1F5DC6F8}</ProjectGuid>
+    <ProjectGuid>{41ADDB3E-E067-42A1-9909-7380843227E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab1</RootNamespace>
-    <AssemblyName>Lab1</AssemblyName>
+    <RootNamespace>Dop</RootNamespace>
+    <AssemblyName>Dop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Heroes\Batman.cs" />
+    <Compile Include="Heroes\Flash.cs" />
+    <Compile Include="Heroes\Green light.cs" />
+    <Compile Include="Heroes\Super woman.cs" />
+    <Compile Include="Heroes\Superman.cs" />
+    <Compile Include="ISuperHero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

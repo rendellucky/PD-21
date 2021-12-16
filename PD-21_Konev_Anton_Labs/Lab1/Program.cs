@@ -26,7 +26,6 @@ namespace ConsoleApp1
         {
             //1.Виводить на екран введене число з клавіатури в зворотному порядку (1234->4321)
             /*
-
                int n, m;
                Console.Write("n= ");
                n = Convert.ToInt32(Console.ReadLine());
@@ -51,20 +50,15 @@ namespace ConsoleApp1
             string[] words = text.Split(new char[] { '.' });
             int a;
             int b;
-
-
             a = Convert.ToInt32(words[0]);
             b = Convert.ToInt32(words[1]);
-
             int reversedA = 0;
             int reversedB = 0;
-
             while (a > 0)
             {
                 reversedA = reversedA * 10 + a % 10;
                 a /= 10;
             }
-
             while (b > 0)
             {
                 reversedB = reversedB * 10 + b % 10;
